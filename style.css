@@ -11,6 +11,15 @@
   margin: 0 0 10vw 0;
 }
 
+.subtitle {
+  font-family: Arial, sans-serif;
+  font-weight: normal;
+  text-align: center;
+  font-size: 4vw;
+  margin: 4vw 4vw 4vw 4vw;
+  padding: 0 0 0 1.3vw;
+}
+
 .year {
   font-family: Arial, sans-serif;
   font-weight: bold;
